@@ -1,9 +1,9 @@
 {
-  "_axios-D7Ey-f8e.js": {
-    "file": "assets/axios-D7Ey-f8e.js",
+  "_axios-ByOHliqs.js": {
+    "file": "assets/axios-ByOHliqs.js",
     "name": "axios",
     "imports": [
-      "_useWallet-GjNqeofx.js",
+      "_useWallet-Da7DGK22.js",
       "_hardware-wallet-BlaNIBuT.js"
     ]
   },
@@ -11,44 +11,44 @@
     "file": "assets/hardware-wallet-BlaNIBuT.js",
     "name": "hardware-wallet"
   },
-  "_useWallet-GjNqeofx.js": {
-    "file": "assets/useWallet-GjNqeofx.js",
+  "_useWallet-Da7DGK22.js": {
+    "file": "assets/useWallet-Da7DGK22.js",
     "name": "useWallet",
     "imports": [
       "_hardware-wallet-BlaNIBuT.js"
     ]
   },
   "src/routes/[...404].tsx?pick=default&pick=$css": {
-    "file": "assets/_...404_-DEQSSC0-.js",
+    "file": "assets/_...404_-COOnf1Zl.js",
     "name": "_...404_",
     "src": "src/routes/[...404].tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_useWallet-GjNqeofx.js",
+      "_useWallet-Da7DGK22.js",
       "_hardware-wallet-BlaNIBuT.js",
-      "_axios-D7Ey-f8e.js"
+      "_axios-ByOHliqs.js"
     ]
   },
   "src/routes/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-CNStVpWE.js",
+    "file": "assets/index-vCyZjHdI.js",
     "name": "index",
     "src": "src/routes/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_useWallet-GjNqeofx.js",
+      "_useWallet-Da7DGK22.js",
       "_hardware-wallet-BlaNIBuT.js",
-      "_axios-D7Ey-f8e.js"
+      "_axios-ByOHliqs.js"
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-CSFf4pMl.js",
+    "file": "assets/client-CPjd0Dm0.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
     "imports": [
-      "_useWallet-GjNqeofx.js",
+      "_useWallet-Da7DGK22.js",
       "_hardware-wallet-BlaNIBuT.js"
     ],
     "dynamicImports": [
@@ -56,7 +56,7 @@
       "src/routes/index.tsx?pick=default&pick=$css"
     ],
     "css": [
-      "assets/client-DKXFJUaC.css"
+      "assets/client-BTcqBer9.css"
     ]
   }
 }
