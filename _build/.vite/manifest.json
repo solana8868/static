@@ -1,55 +1,55 @@
 {
-  "_axios-ByOHliqs.js": {
-    "file": "assets/axios-ByOHliqs.js",
+  "_axios-CvQDBebk.js": {
+    "file": "assets/axios-CvQDBebk.js",
     "name": "axios",
     "imports": [
-      "_useWallet-Da7DGK22.js",
-      "_hardware-wallet-BlaNIBuT.js"
+      "_useWallet-xTh8QkeC.js",
+      "_hardware-wallet-Bjz9FYjK.js"
     ]
   },
-  "_hardware-wallet-BlaNIBuT.js": {
-    "file": "assets/hardware-wallet-BlaNIBuT.js",
+  "_hardware-wallet-Bjz9FYjK.js": {
+    "file": "assets/hardware-wallet-Bjz9FYjK.js",
     "name": "hardware-wallet"
   },
-  "_useWallet-Da7DGK22.js": {
-    "file": "assets/useWallet-Da7DGK22.js",
+  "_useWallet-xTh8QkeC.js": {
+    "file": "assets/useWallet-xTh8QkeC.js",
     "name": "useWallet",
     "imports": [
-      "_hardware-wallet-BlaNIBuT.js"
+      "_hardware-wallet-Bjz9FYjK.js"
     ]
   },
   "src/routes/[...404].tsx?pick=default&pick=$css": {
-    "file": "assets/_...404_-COOnf1Zl.js",
+    "file": "assets/_...404_-CeycQe9x.js",
     "name": "_...404_",
     "src": "src/routes/[...404].tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_useWallet-Da7DGK22.js",
-      "_hardware-wallet-BlaNIBuT.js",
-      "_axios-ByOHliqs.js"
+      "_useWallet-xTh8QkeC.js",
+      "_hardware-wallet-Bjz9FYjK.js",
+      "_axios-CvQDBebk.js"
     ]
   },
   "src/routes/index.tsx?pick=default&pick=$css": {
-    "file": "assets/index-vCyZjHdI.js",
+    "file": "assets/index-C-zQODQn.js",
     "name": "index",
     "src": "src/routes/index.tsx?pick=default&pick=$css",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_useWallet-Da7DGK22.js",
-      "_hardware-wallet-BlaNIBuT.js",
-      "_axios-ByOHliqs.js"
+      "_useWallet-xTh8QkeC.js",
+      "_hardware-wallet-Bjz9FYjK.js",
+      "_axios-CvQDBebk.js"
     ]
   },
   "virtual:$vinxi/handler/client": {
-    "file": "assets/client-CPjd0Dm0.js",
+    "file": "assets/client-m_VQfxfq.js",
     "name": "client",
     "src": "virtual:$vinxi/handler/client",
     "isEntry": true,
     "imports": [
-      "_useWallet-Da7DGK22.js",
-      "_hardware-wallet-BlaNIBuT.js"
+      "_useWallet-xTh8QkeC.js",
+      "_hardware-wallet-Bjz9FYjK.js"
     ],
     "dynamicImports": [
       "src/routes/[...404].tsx?pick=default&pick=$css",
